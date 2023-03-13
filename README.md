@@ -3,4 +3,5 @@ The project is based on the trips made by Uber drivers. Different aspects of the
 
 ## Skills & Tools Covered
 Python Functions
+
 Data Interpretation
